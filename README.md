@@ -1,16 +1,20 @@
-## Hi there 👋
+# ⚡ Hi, I'm Alex 
 
-<!--
-**arys32/arys32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ICT Student @ KTH Royal Institute of Technology | Stockholm, Sweden**
 
-Here are some ideas to get you started:
+While my degree covers a broad software foundation, I try to steer my projects and course-choices toward understanding and building programs related to digital signal processing, musical acoustics, and audio software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Write
+* **Languages:** `Python` , `C++` , `C` , `Java`
+  
+---
+
+### 🚀 Projects & Coursework
+
+* 🎵 **[Airchestra](https://github.com/Mextrin/Ultevis)** — An interactive music app where users play digital instruments using hand gestures, featuring both built-in audio and MIDI output.
+* 🎙️ **[Music Acoustics & Synthesis](https://github.com/arys32/DT2212-Music-Acoustics)** — Python assignments focused on programming instrument syntheses and voice modeling.
+* 📈 **[Signal Processing Analysis](https://github.com/arys32/II1303-Signal-Processing)** — MATLAB simulations exploring the audible effects of aliasing and designing IIR/FIR filters.
+* 🕹️ **[Snail Run](https://github.com/arys32/Snail-Run-IS1200-Hardware-Project)** — A bare-metal arcade game for the DE10-Lite FPGA, featuring a basic graphics engine in C and RISC-V Assembly.
+* ⚡ **[Concurrent Programming](https://github.com/arys32/ID1217-Concurrent-Programming)** — Coursework in C and Java focused on thread-safe code and basic distributed algorithms.
+
+---
