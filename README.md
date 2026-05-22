@@ -11,7 +11,7 @@ While my degree covers a broad software foundation, I try to steer my projects a
 
 ### 🚀 Projects & Coursework
 
-* 🎵 **[Airchestra](https://github.com/Mextrin/Ultevis)** — An interactive music app where users play digital instruments using hand gestures, featuring both built-in audio and MIDI output.
+* 🎵 **[Airchestra](https://github.com/Mextrin/Airchestra)** — An interactive music app where users play digital instruments using hand gestures, featuring both built-in audio and MIDI output.
 * 🔊 **[Electric Speaker Build & Analysis](https://github.com/arys32/Custom-Electric-Speaker)** — Designed, built, and acoustically measured a custom electric speaker, evaluating its frequency response and sensitivity.
 * 🎙️ **[Music Acoustics & Synthesis](https://github.com/arys32/DT2212-Music-Acoustics)** — Python assignments focused on programming instrument synthesis and voice modeling.
 * 📈 **[Signal Processing Analysis](https://github.com/arys32/II1303-Signal-Processing)** — MATLAB simulations exploring the audible effects of aliasing and designing IIR/FIR filters.
